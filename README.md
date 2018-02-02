@@ -1,2 +1,2 @@
 # iCaique
-This is a simple repository to learn about iOS
+Just a repository to learn about iOS
