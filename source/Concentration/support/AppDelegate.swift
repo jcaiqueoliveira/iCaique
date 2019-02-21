@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  FirstExercise
+//  Concentration
 //
-//  Created by Caique Oliveira on 2/2/18.
-//  Copyright © 2018 Caique Oliveira. All rights reserved.
+//  Created by Caique Oliveira on 2/13/19.
+//  Copyright © 2019 Caique Oliveira. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
